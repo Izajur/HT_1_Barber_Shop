@@ -1,13 +1,13 @@
 #include <iostream>
 #include <thread>
 #include <semaphore.h>
-#include <string>
+#include <chrono>
 using namespace std;
 
 #define MAX_CAPACITY 20
 #define SOFA_SIZE 4
 #define NUM_BARBER 3
-#define MAX_TIME 25
+#define MAX_TIME 100
 
 // Counting Semaphores
 sem_t max_capacity;
@@ -85,12 +85,14 @@ public:
     void operator()() {
         while(true) {
             sem_wait(&cust_ready);
+            printf("Customer is Ready\n");
             sem_wait(&coord);
             printf("Cutting Hair\n");
             sem_post(&coord);
             sem_post(&finished);
             sem_wait(&leave_b_chair);
             sem_post(&barber_chair);
+            printf("One Cut Completed\n");
         }
     }
 };
@@ -101,11 +103,14 @@ public:
 
     void operator()() {
         while(true) {
+            printf("Inside Payment Function\n");
             sem_wait(&payment);
+            printf("Payment Started\n");
             sem_wait(&coord);
             printf("Payment Accepting\n");
             sem_post(&coord);
             sem_post(&receipt);
+            printf("One Payment Processed\n");
         }
     }
 };
