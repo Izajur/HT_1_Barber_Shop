@@ -73,6 +73,7 @@ public:
         sem_wait(&receipt);
         printf("Good Bye: %d\n", id);
         sem_post(&max_capacity);
+        cout << flush;
     }
 };
 
@@ -93,6 +94,7 @@ public:
             sem_wait(&leave_b_chair);
             sem_post(&barber_chair);
             printf("One Cut Completed\n");
+            cout << flush;
         }
     }
 };
@@ -111,6 +113,7 @@ public:
             sem_post(&coord);
             sem_post(&receipt);
             printf("One Payment Processed\n");
+            cout << flush;
         }
     }
 };
