@@ -1,701 +1,1502 @@
-Inside Payment Section
+This is a the Barber Shop
+Welcome Customer: 0
+Inside Payment Function
+Welcome Customer: 1
 Enter Shop: 0
 Sit on Sofa: 0
 Get up from Sofa: 0
 Sit in Barber Chair: 0
+Welcome Customer: 2
 Customer is Ready
-Cutting Hair 0
-Leave Barber Chair: 0
-Payment Processing: 0
-One cut completed
-Payment Started
-Payment Accepting
-One Payment Processed
-Inside Payment Section
-Good Bye: 0
+Cutting Hair
 Enter Shop: 1
 Sit on Sofa: 1
 Get up from Sofa: 1
 Sit in Barber Chair: 1
+Leave Barber Chair: 1
+Payment Processing: 1
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Welcome Customer: 3
+Leave Barber Chair: 0
 Enter Shop: 2
+Payment Processing: 0
 Sit on Sofa: 2
 Get up from Sofa: 2
 Sit in Barber Chair: 2
+One Cut Completed
 Customer is Ready
-Cutting Hair 1
-Enter Shop: 3
-Sit on Sofa: 3
-Get up from Sofa: 3
-Sit in Barber Chair: 3
-Leave Barber Chair: 1
-Payment Processing: 1
-One cut completed
-Customer is Ready
-Cutting Hair 2
-Enter Shop: 4
+Cutting Hair
 Leave Barber Chair: 2
-Sit on Sofa: 4
-Get up from Sofa: 4
-Sit in Barber Chair: 4
-Enter Shop: 5
+Payment Started
 Payment Processing: 2
-One cut completed
-Customer is Ready
-Cutting Hair 3
-Enter Shop: 6
-Sit on Sofa: 6
-Leave Barber Chair: 3
-Enter Shop: 7
-Get up from Sofa: 6
-Sit in Barber Chair: 6
-Sit on Sofa: 5
-Sit on Sofa: 7
-Payment Processing: 3
-Enter Shop: 8
-Payment Started
-One cut completed
-Customer is Ready
-Cutting Hair 4
 Payment Accepting
-Enter Shop: 10
+Welcome Customer: 4
 One Payment Processed
-Inside Payment Section
+Inside Payment Function
 Payment Started
 Payment Accepting
-Enter Shop: 9
 One Payment Processed
-Inside Payment Section
+Inside Payment Function
 Payment Started
 Payment Accepting
 Good Bye: 1
 One Payment Processed
-Inside Payment Section
-Sit on Sofa: 8
-Sit on Sofa: 10
-Good Bye: 2
-Good Bye: 3
-Get up from Sofa: 7
-Leave Barber Chair: 4
-Sit in Barber Chair: 7
-Sit on Sofa: 9
-Payment Processing: 4
-One cut completed
-Customer is Ready
-Cutting Hair 6
-Payment Started
-Payment Accepting
-Leave Barber Chair: 6
+Inside Payment Function
+Welcome Customer: 5
+Enter Shop: 4
+Sit on Sofa: 4
+Get up from Sofa: 4
+Sit in Barber Chair: 4
+Welcome Customer: 6
+One Cut Completed
+Enter Shop: 5
+Sit on Sofa: 5
 Get up from Sofa: 5
 Sit in Barber Chair: 5
-One Payment Processed
-Inside Payment Section
-Payment Processing: 6
-Good Bye: 4
-Payment Started
-Payment Accepting
+Customer is Ready
+Cutting Hair
+Good Bye: 2
+Welcome Customer: 7
+Good Bye: 0
+Welcome Customer: 8
+Leave Barber Chair: 4
+Enter Shop: 3
+Payment Processing: 4
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Enter Shop: 7
+Leave Barber Chair: 5
+Sit on Sofa: 7
+Get up from Sofa: 7
+Sit in Barber Chair: 7
+Payment Processing: 5
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Enter Shop: 8
+Leave Barber Chair: 7
+Sit on Sofa: 8
 Get up from Sofa: 8
 Sit in Barber Chair: 8
-One cut completed
-Customer is Ready
-Cutting Hair 7
-Good Bye: 6
-Leave Barber Chair: 7
-One Payment Processed
-Inside Payment Section
 Payment Processing: 7
-One cut completed
+Sit on Sofa: 3
+Get up from Sofa: 3
+Sit in Barber Chair: 3
+Enter Shop: 6
+One Cut Completed
 Customer is Ready
-Cutting Hair 5
-Payment Started
-Payment Accepting
-Get up from Sofa: 10
-Sit in Barber Chair: 10
-Leave Barber Chair: 5
-One Payment Processed
-Inside Payment Section
-Good Bye: 7
-One cut completed
-Customer is Ready
-Cutting Hair 8
-Payment Processing: 5
+Cutting Hair
+Welcome Customer: 9
+Sit on Sofa: 6
 Leave Barber Chair: 8
-Get up from Sofa: 9
-Sit in Barber Chair: 9
+Get up from Sofa: 6
+Sit in Barber Chair: 6
 Payment Processing: 8
 Payment Started
 Payment Accepting
-One cut completed
+Welcome Customer: 10
+One Cut Completed
 Customer is Ready
-Cutting Hair 10
+Cutting Hair
+Leave Barber Chair: 3
+Enter Shop: 9
+Payment Processing: 3
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Good Bye: 4
+Enter Shop: 10
+Sit on Sofa: 10
+Get up from Sofa: 10
+Sit in Barber Chair: 10
+Sit on Sofa: 9
+Get up from Sofa: 9
+Sit in Barber Chair: 9
 One Payment Processed
-Inside Payment Section
+Inside Payment Function
+Payment Started
+Payment Accepting
+Welcome Customer: 11
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Enter Shop: 11
+Sit on Sofa: 11
+Good Bye: 7
+Good Bye: 8
+Good Bye: 3
+Good Bye: 5
+Welcome Customer: 12
+Leave Barber Chair: 6
+Payment Processing: 6
+Welcome Customer: 13
+Enter Shop: 12
+Sit on Sofa: 12
+One Cut Completed
+Customer is Ready
+Cutting Hair
 Payment Started
 Payment Accepting
 Leave Barber Chair: 10
-One Payment Processed
-Inside Payment Section
-Good Bye: 8
-Payment Processing: 10
-One cut completed
-Customer is Ready
-Cutting Hair 9
-Payment Started
-Payment Accepting
-Leave Barber Chair: 9
-Good Bye: 5
-One Payment Processed
-Inside Payment Section
-Good Bye: 10
-Payment Processing: 9
-One cut completed
-Payment Started
-Payment Accepting
-One Payment Processed
-Inside Payment Section
-Good Bye: 9
-Enter Shop: 11
-Sit on Sofa: 11
 Get up from Sofa: 11
-Sit in Barber Chair: 11
-Enter Shop: 12
-Sit on Sofa: 12
-Get up from Sofa: 12
-Sit in Barber Chair: 12
-Customer is Ready
-Cutting Hair 11
+One Payment Processed
+Inside Payment Function
 Enter Shop: 13
 Sit on Sofa: 13
-Get up from Sofa: 13
-Sit in Barber Chair: 13
+Payment Processing: 10
+Sit in Barber Chair: 11
+Payment Started
+Payment Accepting
+Welcome Customer: 14
+One Payment Processed
+Inside Payment Function
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Good Bye: 10
+Welcome Customer: 15
+Welcome Customer: 16
 Enter Shop: 14
-Sit on Sofa: 14
-Leave Barber Chair: 11
-Payment Processing: 11
 Enter Shop: 15
 Sit on Sofa: 15
+Sit on Sofa: 14
+Welcome Customer: 17
+Get up from Sofa: 12
 Enter Shop: 16
+Sit in Barber Chair: 12
 Sit on Sofa: 16
-Payment Started
-Payment Accepting
-One cut completed
-Customer is Ready
-Cutting Hair 12
-One Payment Processed
-Inside Payment Section
-Good Bye: 11
-Enter Shop: 18
-Sit on Sofa: 18
-Enter Shop: 19
-Enter Shop: 20
-Get up from Sofa: 14
-Leave Barber Chair: 12
-Sit in Barber Chair: 14
+Welcome Customer: 18
+Leave Barber Chair: 9
 Enter Shop: 17
+Welcome Customer: 19
+Good Bye: 6
+Enter Shop: 18
+Payment Processing: 9
+Welcome Customer: 20
+Payment Started
+Payment Accepting
+Enter Shop: 19
+One Payment Processed
+Inside Payment Function
+Get up from Sofa: 13
+Welcome Customer: 21
+Sit in Barber Chair: 13
+Good Bye: 9
 Sit on Sofa: 17
+Enter Shop: 20
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Welcome Customer: 22
+Leave Barber Chair: 11
+Enter Shop: 21
+Payment Processing: 11
+Payment Started
+Payment Accepting
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Welcome Customer: 23
+Leave Barber Chair: 12
 Payment Processing: 12
-Payment Started
-Payment Accepting
-One Payment Processed
-Inside Payment Section
-Good Bye: 12
 Get up from Sofa: 15
-One cut completed
+One Cut Completed
 Customer is Ready
-Cutting Hair 13
-Sit in Barber Chair: 15
-Sit on Sofa: 20
+Cutting Hair
+Enter Shop: 22
 Leave Barber Chair: 13
+Good Bye: 11
 Payment Processing: 13
-One cut completed
-Customer is Ready
-Cutting Hair 14
+Welcome Customer: 24
+One Payment Processed
+Inside Payment Function
 Payment Started
 Payment Accepting
+Enter Shop: 23
 One Payment Processed
-Inside Payment Section
+Inside Payment Function
+Payment Started
+Payment Accepting
+Get up from Sofa: 14
+One Payment Processed
+Inside Payment Function
 Get up from Sofa: 16
-Leave Barber Chair: 14
+Sit in Barber Chair: 15
 Sit in Barber Chair: 16
-Good Bye: 13
-Payment Processing: 14
-Payment Started
-Payment Accepting
+Sit on Sofa: 20
+Welcome Customer: 25
+Enter Shop: 24
+Sit on Sofa: 18
+Good Bye: 12
+Welcome Customer: 26
+One Cut Completed
+Customer is Ready
+Cutting Hair
 Sit on Sofa: 19
-One Payment Processed
-Inside Payment Section
-Get up from Sofa: 18
-Sit in Barber Chair: 18
-Good Bye: 14
-One cut completed
+Leave Barber Chair: 16
+Enter Shop: 25
+Payment Processing: 16
+Good Bye: 13
+One Cut Completed
 Customer is Ready
-Cutting Hair 15
+Cutting Hair
+Enter Shop: 26
 Leave Barber Chair: 15
+Sit in Barber Chair: 14
 Payment Processing: 15
-One cut completed
+One Cut Completed
 Customer is Ready
-Cutting Hair 16
-Payment Started
-Payment Accepting
-One Payment Processed
-Inside Payment Section
-Good Bye: 15
+Cutting Hair
 Get up from Sofa: 17
 Sit in Barber Chair: 17
-Leave Barber Chair: 16
-Payment Processing: 16
-Payment Started
-Payment Accepting
-One cut completed
-Customer is Ready
-Cutting Hair 18
-One Payment Processed
-Leave Barber Chair: 18
-Inside Payment Section
+Sit on Sofa: 21
+Welcome Customer: 27
 Get up from Sofa: 20
+Payment Started
 Sit in Barber Chair: 20
-Good Bye: 16
-One cut completed
-Customer is Ready
-Cutting Hair 17
-Payment Processing: 18
-Leave Barber Chair: 17
-Get up from Sofa: 19
-Sit in Barber Chair: 19
-Payment Processing: 17
+Welcome Customer: 28
+Payment Accepting
+Sit on Sofa: 22
+Leave Barber Chair: 14
+Enter Shop: 27
+One Payment Processed
+Inside Payment Function
 Payment Started
 Payment Accepting
-One cut completed
-Customer is Ready
-Cutting Hair 20
+Payment Processing: 14
 One Payment Processed
-Inside Payment Section
+Inside Payment Function
+Payment Started
+Payment Accepting
+Welcome Customer: 29
+One Payment Processed
+Inside Payment Function
+Enter Shop: 28
+Get up from Sofa: 18
+Good Bye: 15
+Sit in Barber Chair: 18
+Sit on Sofa: 23
+Good Bye: 14
+Welcome Customer: 30
+Enter Shop: 29
+Good Bye: 16
+Welcome Customer: 31
+Welcome Customer: 32
+One Cut Completed
+Enter Shop: 31
+Customer is Ready
+Cutting Hair
+Enter Shop: 30
+Welcome Customer: 33
+Leave Barber Chair: 17
+Enter Shop: 32
+Payment Processing: 17
+One Cut Completed
+Customer is Ready
+Cutting Hair
 Payment Started
 Payment Accepting
 Leave Barber Chair: 20
+Welcome Customer: 34
+Get up from Sofa: 19
 One Payment Processed
-Inside Payment Section
-Good Bye: 17
+Inside Payment Function
 Payment Processing: 20
-One cut completed
+Sit in Barber Chair: 19
 Payment Started
 Payment Accepting
+One Payment Processed
+Inside Payment Function
+Enter Shop: 33
+Good Bye: 17
+Enter Shop: 34
+One Cut Completed
 Customer is Ready
-Cutting Hair 19
-Good Bye: 18
+Cutting Hair
 Good Bye: 20
-Leave Barber Chair: 19
-One Payment Processed
-Payment Processing: 19
-Inside Payment Section
-Payment Started
-Payment Accepting
-One cut completed
-One Payment Processed
-Inside Payment Section
-Good Bye: 19
-Enter Shop: 21
-Sit on Sofa: 21
+Welcome Customer: 35
 Get up from Sofa: 21
+Welcome Customer: 36
+Leave Barber Chair: 18
 Sit in Barber Chair: 21
-Enter Shop: 22
-Sit on Sofa: 22
-Get up from Sofa: 22
-Sit in Barber Chair: 22
-Customer is Ready
-Cutting Hair 21
-Enter Shop: 23
-Sit on Sofa: 23
-Get up from Sofa: 23
-Sit in Barber Chair: 23
-Leave Barber Chair: 21
-Payment Processing: 21
-One cut completed
-Customer is Ready
-Cutting Hair 22
-Payment Started
-Enter Shop: 29
-Sit on Sofa: 29
-Get up from Sofa: 29
-Sit in Barber Chair: 29
-Payment Accepting
-Leave Barber Chair: 22
-One Payment Processed
-Inside Payment Section
-Enter Shop: 25
 Sit on Sofa: 25
-Get up from Sofa: 25
-Sit in Barber Chair: 25
-Enter Shop: 26
-Sit on Sofa: 26
-Enter Shop: 27
-Sit on Sofa: 27
-Enter Shop: 28
-Sit on Sofa: 28
-Good Bye: 21
-Enter Shop: 24
+Enter Shop: 35
 Sit on Sofa: 24
-Enter Shop: 30
-One cut completed
+Payment Processing: 18
+Welcome Customer: 37
+Enter Shop: 36
+One Cut Completed
 Customer is Ready
-Cutting Hair 23
-Payment Processing: 22
-Leave Barber Chair: 23
-Payment Processing: 23
-Payment Started
-Payment Accepting
-One Payment Processed
-One cut completed
-Inside Payment Section
-Payment Started
-Payment Accepting
-Customer is Ready
-Cutting Hair 29
+Cutting Hair
+Get up from Sofa: 22
+Leave Barber Chair: 19
+Sit in Barber Chair: 22
+Payment Processing: 19
+Sit on Sofa: 26
 Get up from Sofa: 26
+Payment Started
+Payment Accepting
+Good Bye: 19
+One Cut Completed
+Customer is Ready
+Cutting Hair
 Sit in Barber Chair: 26
-Sit on Sofa: 30
-Good Bye: 22
-Leave Barber Chair: 29
-Good Bye: 23
-One Payment Processed
-Inside Payment Section
-Get up from Sofa: 27
-Sit in Barber Chair: 27
-Payment Processing: 29
-One cut completed
-Customer is Ready
-Cutting Hair 25
-Payment Started
-Payment Accepting
-One Payment Processed
-Leave Barber Chair: 25
-Inside Payment Section
-Good Bye: 29
-One cut completed
-Customer is Ready
-Cutting Hair 26
-Payment Processing: 25
 Leave Barber Chair: 26
-Get up from Sofa: 28
-Sit in Barber Chair: 28
 Payment Processing: 26
-Payment Started
-Payment Accepting
-One Payment Processed
-Inside Payment Section
-Payment Started
-Payment Accepting
-One cut completed
-One Payment Processed
-Inside Payment Section
-Get up from Sofa: 24
-Sit in Barber Chair: 24
-Good Bye: 26
-Good Bye: 25
+Enter Shop: 37
+One Cut Completed
 Customer is Ready
-Cutting Hair 27
+Cutting Hair
+Leave Barber Chair: 22
+Sit on Sofa: 27
+Payment Processing: 22
+Get up from Sofa: 27
+Welcome Customer: 38
+One Cut Completed
+Customer is Ready
+Cutting Hair
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit on Sofa: 28
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Welcome Customer: 39
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Leave Barber Chair: 21
+One Payment Processed
+Inside Payment Function
+Good Bye: 18
+Good Bye: 26
+Welcome Customer: 40
+Enter Shop: 39
+Welcome Customer: 41
+Good Bye: 22
+Enter Shop: 40
+Payment Processing: 21
+One Cut Completed
+Payment Started
+Payment Accepting
+Get up from Sofa: 25
+Enter Shop: 38
+Sit in Barber Chair: 25
+Sit on Sofa: 38
+Sit in Barber Chair: 27
+Customer is Ready
+Cutting Hair
 Leave Barber Chair: 27
 Payment Processing: 27
-One cut completed
-Payment Started
-Payment Accepting
+Welcome Customer: 42
+One Cut Completed
 Customer is Ready
-Cutting Hair 28
-Get up from Sofa: 30
-Sit in Barber Chair: 30
-Leave Barber Chair: 28
+Cutting Hair
 One Payment Processed
-Payment Processing: 28
-Inside Payment Section
+Inside Payment Function
 Payment Started
 Payment Accepting
-One cut completed
+Good Bye: 21
 One Payment Processed
-Inside Payment Section
-Customer is Ready
-Cutting Hair 24
-Good Bye: 28
-Leave Barber Chair: 24
-Good Bye: 27
-One cut completed
-Customer is Ready
-Cutting Hair 30
-Payment Processing: 24
-Leave Barber Chair: 30
-Payment Processing: 30
-Payment Started
-Payment Accepting
-One Payment Processed
-Inside Payment Section
-Payment Started
-Payment Accepting
-Good Bye: 24
-One Payment Processed
-Inside Payment Section
-One cut completed
-Good Bye: 30
-Enter Shop: 31
-Sit on Sofa: 31
-Get up from Sofa: 31
-Sit in Barber Chair: 31
-Enter Shop: 32
-Sit on Sofa: 32
-Get up from Sofa: 32
-Sit in Barber Chair: 32
-Enter Shop: 33
-Sit on Sofa: 33
-Get up from Sofa: 33
-Sit in Barber Chair: 33
-Customer is Ready
-Cutting Hair 31
-Enter Shop: 34
-Sit on Sofa: 34
-Enter Shop: 35
-Sit on Sofa: 35
-Leave Barber Chair: 31
-Payment Processing: 31
-Enter Shop: 36
-Sit on Sofa: 36
-Get up from Sofa: 36
-Sit in Barber Chair: 36
-Payment Started
-Payment Accepting
-One cut completed
-Customer is Ready
-Cutting Hair 32
-One Payment Processed
-Leave Barber Chair: 32
-Inside Payment Section
-Enter Shop: 37
-Sit on Sofa: 37
-Enter Shop: 38
-Sit on Sofa: 38
-Enter Shop: 39
-Enter Shop: 40
-Payment Processing: 32
-Good Bye: 31
-Payment Started
-Payment Accepting
-Get up from Sofa: 35
-Sit in Barber Chair: 35
-One Payment Processed
-Inside Payment Section
-Good Bye: 32
-One cut completed
-Customer is Ready
-Cutting Hair 33
-Leave Barber Chair: 33
-Sit on Sofa: 39
-Payment Processing: 33
-One cut completed
-Customer is Ready
-Cutting Hair 36
-Payment Started
-Payment Accepting
-Leave Barber Chair: 36
-Get up from Sofa: 34
-One Payment Processed
-Inside Payment Section
-Good Bye: 33
-Sit in Barber Chair: 34
-One cut completed
-Customer is Ready
-Cutting Hair 35
-Sit on Sofa: 40
-Leave Barber Chair: 35
-Payment Processing: 36
-Payment Processing: 35
-Get up from Sofa: 37
-Sit in Barber Chair: 37
-One cut completed
-Customer is Ready
-Cutting Hair 34
-Get up from Sofa: 38
-Leave Barber Chair: 34
-Sit in Barber Chair: 38
-Payment Started
-Payment Accepting
-Payment Processing: 34
-Good Bye: 34
-One Payment Processed
-Inside Payment Section
-Payment Started
-Payment Accepting
-Get up from Sofa: 39
-One Payment Processed
-Inside Payment Section
-Payment Started
-Payment Accepting
-Good Bye: 35
-One Payment Processed
-Inside Payment Section
-One cut completed
-Customer is Ready
-Cutting Hair 37
-Sit in Barber Chair: 39
-Good Bye: 36
-Leave Barber Chair: 37
-Payment Processing: 37
-Payment Started
-Payment Accepting
-One cut completed
-Customer is Ready
-Cutting Hair 38
-Get up from Sofa: 40
-Sit in Barber Chair: 40
-Leave Barber Chair: 38
-Payment Processing: 38
-One cut completed
-Customer is Ready
-Cutting Hair 39
-Good Bye: 37
-One Payment Processed
-Inside Payment Section
-Payment Started
-Payment Accepting
-Leave Barber Chair: 39
-One Payment Processed
-Inside Payment Section
-Good Bye: 38
-One cut completed
-Customer is Ready
-Cutting Hair 40
-Payment Processing: 39
-Leave Barber Chair: 40
-Payment Started
-Payment Accepting
-Payment Processing: 40
-Good Bye: 40
-One cut completed
-One Payment Processed
-Inside Payment Section
-Payment Started
-Payment Accepting
-One Payment Processed
-Inside Payment Section
-Good Bye: 39
-Enter Shop: 41
-Sit on Sofa: 41
-Get up from Sofa: 41
-Sit in Barber Chair: 41
+Inside Payment Function
+Get up from Sofa: 24
+Welcome Customer: 43
+Sit in Barber Chair: 24
 Enter Shop: 42
-Sit on Sofa: 42
-Get up from Sofa: 42
-Sit in Barber Chair: 42
+Sit on Sofa: 31
+Get up from Sofa: 23
+Welcome Customer: 44
 Enter Shop: 43
 Sit on Sofa: 43
-Get up from Sofa: 43
-Sit in Barber Chair: 43
+Sit in Barber Chair: 23
+Leave Barber Chair: 25
+Welcome Customer: 45
+Good Bye: 27
+Enter Shop: 41
+One Cut Completed
 Customer is Ready
-Cutting Hair 41
-Leave Barber Chair: 41
-Payment Processing: 41
-One cut completed
+Cutting Hair
+Welcome Customer: 46
+Leave Barber Chair: 24
 Enter Shop: 44
-Sit on Sofa: 44
-Get up from Sofa: 44
-Sit in Barber Chair: 44
+Payment Processing: 24
+Payment Processing: 25
+Payment Started
+Payment Accepting
+Welcome Customer: 47
+Get up from Sofa: 38
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Cut Completed
+One Payment Processed
+Inside Payment Function
+Get up from Sofa: 28
+Sit in Barber Chair: 38
+Sit in Barber Chair: 28
+Sit on Sofa: 33
+Sit on Sofa: 32
+Welcome Customer: 48
 Customer is Ready
-Cutting Hair 42
+Cutting Hair
+Good Bye: 24
+Leave Barber Chair: 23
+Payment Processing: 23
+Good Bye: 25
 Enter Shop: 45
-Leave Barber Chair: 42
-Sit on Sofa: 45
-Payment Processing: 42
 Payment Started
-One cut completed
-Customer is Ready
-Cutting Hair 43
-Enter Shop: 47
-Leave Barber Chair: 43
-Sit on Sofa: 47
-Payment Processing: 43
-Enter Shop: 48
-Sit on Sofa: 48
-Get up from Sofa: 48
-Sit in Barber Chair: 48
-One cut completed
-Customer is Ready
-Cutting Hair 44
-Leave Barber Chair: 44
 Payment Accepting
-Payment Processing: 44
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 31
 One Payment Processed
-Inside Payment Section
-Payment Started
-Payment Accepting
+Inside Payment Function
+Good Bye: 23
 Enter Shop: 46
-One Payment Processed
-Inside Payment Section
+Welcome Customer: 49
+Sit in Barber Chair: 31
+Sit on Sofa: 34
+Welcome Customer: 50
+Enter Shop: 47
+Leave Barber Chair: 28
+Welcome Customer: 51
+Payment Processing: 28
 Payment Started
 Payment Accepting
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Welcome Customer: 52
+Leave Barber Chair: 38
+Get up from Sofa: 43
+Payment Processing: 38
 One Payment Processed
-Inside Payment Section
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Sit in Barber Chair: 43
+Leave Barber Chair: 43
+Get up from Sofa: 33
+Payment Processing: 43
+Inside Payment Function
 Payment Started
 Payment Accepting
+Welcome Customer: 53
 One Payment Processed
-Inside Payment Section
-Get up from Sofa: 47
-Sit in Barber Chair: 47
-Good Bye: 41
-Good Bye: 42
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit on Sofa: 35
+One Payment Processed
+Inside Payment Function
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 32
+Leave Barber Chair: 31
+Good Bye: 38
+Payment Processing: 31
+Sit in Barber Chair: 32
+Sit on Sofa: 37
+Get up from Sofa: 37
+Payment Started
+Payment Accepting
+One Cut Completed
+Welcome Customer: 54
 Good Bye: 43
-Good Bye: 44
-Sit on Sofa: 46
+Welcome Customer: 55
+Sit in Barber Chair: 33
+Enter Shop: 54
+Customer is Ready
+Cutting Hair
+Sit in Barber Chair: 37
+Leave Barber Chair: 32
+Sit on Sofa: 39
+Payment Processing: 32
+Get up from Sofa: 39
+One Payment Processed
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Good Bye: 31
+Leave Barber Chair: 33
+Good Bye: 28
+Welcome Customer: 56
+Sit in Barber Chair: 39
+Welcome Customer: 57
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit on Sofa: 40
+One Payment Processed
+Inside Payment Function
+Payment Processing: 33
+Sit on Sofa: 36
+Payment Started
+Payment Accepting
+Enter Shop: 50
+One Payment Processed
+Inside Payment Function
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 34
+Leave Barber Chair: 37
+Welcome Customer: 58
+Sit in Barber Chair: 34
+Payment Processing: 37
+Sit on Sofa: 29
+Good Bye: 32
+Get up from Sofa: 29
+Enter Shop: 48
+Good Bye: 33
+Sit in Barber Chair: 29
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Payment Started
+Leave Barber Chair: 39
+Payment Accepting
+Enter Shop: 52
+Enter Shop: 51
+Welcome Customer: 59
+Enter Shop: 53
+Sit on Sofa: 48
+Welcome Customer: 60
+Payment Processing: 39
+One Payment Processed
+Welcome Customer: 61
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Cut Completed
+One Payment Processed
+Inside Payment Function
+Good Bye: 37
+Welcome Customer: 62
+Good Bye: 39
+Get up from Sofa: 40
+Customer is Ready
+Cutting Hair
+Welcome Customer: 63
+Leave Barber Chair: 34
+Enter Shop: 55
+Payment Processing: 34
 Enter Shop: 49
-Sit on Sofa: 49
-One cut completed
+One Cut Completed
 Customer is Ready
-Cutting Hair 48
-Get up from Sofa: 45
-Sit in Barber Chair: 45
+Cutting Hair
+Sit on Sofa: 30
+Leave Barber Chair: 29
+Welcome Customer: 64
+Payment Processing: 29
+Get up from Sofa: 36
+One Cut Completed
+Sit in Barber Chair: 40
+Get up from Sofa: 35
+Customer is Ready
+Cutting Hair
+Payment Started
+Sit in Barber Chair: 35
+Leave Barber Chair: 35
+Sit on Sofa: 44
+Payment Accepting
+Payment Processing: 35
+Good Bye: 35
+Welcome Customer: 65
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit on Sofa: 41
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Cut Completed
+One Payment Processed
+Inside Payment Function
+Get up from Sofa: 48
+Sit in Barber Chair: 36
+Sit in Barber Chair: 48
+Sit on Sofa: 45
+Welcome Customer: 66
+Good Bye: 29
+Customer is Ready
+Cutting Hair
+Good Bye: 34
+Leave Barber Chair: 40
+Enter Shop: 56
+Enter Shop: 57
+Welcome Customer: 67
+Payment Processing: 40
+Enter Shop: 58
+Welcome Customer: 68
+Payment Started
+Payment Accepting
+One Cut Completed
+Customer is Ready
+Cutting Hair
+One Payment Processed
+Inside Payment Function
+Welcome Customer: 69
+Get up from Sofa: 30
 Leave Barber Chair: 48
+Sit in Barber Chair: 30
+Welcome Customer: 70
+Sit on Sofa: 46
+Good Bye: 40
 Payment Processing: 48
+Enter Shop: 59
 Payment Started
 Payment Accepting
-One cut completed
-Customer is Ready
-Cutting Hair 47
-Get up from Sofa: 46
-Sit in Barber Chair: 46
-Leave Barber Chair: 47
-Payment Processing: 47
+Welcome Customer: 71
 One Payment Processed
-One cut completed
-Customer is Ready
-Cutting Hair 45
-Get up from Sofa: 49
-Sit in Barber Chair: 49
-Leave Barber Chair: 45
-Payment Processing: 45
-One cut completed
-Customer is Ready
-Cutting Hair 46
+Inside Payment Function
+Get up from Sofa: 44
 Good Bye: 48
-Leave Barber Chair: 46
-Payment Processing: 46
-One cut completed
+Sit in Barber Chair: 44
+Sit on Sofa: 47
+One Cut Completed
 Customer is Ready
-Cutting Hair 49
-Inside Payment Section
+Cutting Hair
+Welcome Customer: 72
+Enter Shop: 60
+Leave Barber Chair: 36
+Payment Processing: 36
+Welcome Customer: 73
+One Cut Completed
+Customer is Ready
+Cutting Hair
 Payment Started
 Payment Accepting
-Leave Barber Chair: 49
+Get up from Sofa: 41
+Leave Barber Chair: 30
 One Payment Processed
-Inside Payment Section
+Inside Payment Function
+Good Bye: 36
+Payment Processing: 30
+Sit in Barber Chair: 41
+Sit on Sofa: 54
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Welcome Customer: 74
+Enter Shop: 61
+Leave Barber Chair: 44
+Payment Started
+Payment Processing: 44
+Welcome Customer: 75
+Payment Accepting
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 45
+Leave Barber Chair: 41
+Sit in Barber Chair: 45
+One Payment Processed
+Payment Processing: 41
+Sit on Sofa: 50
+Get up from Sofa: 50
+Inside Payment Function
 Payment Started
 Payment Accepting
-Payment Processing: 49
+Get up from Sofa: 46
 One Payment Processed
-Inside Payment Section
+Inside Payment Function
 Payment Started
 Payment Accepting
-One cut completed
+One Cut Completed
 One Payment Processed
-Inside Payment Section
+Inside Payment Function
+Sit in Barber Chair: 50
+Sit on Sofa: 42
+Good Bye: 44
+Welcome Customer: 76
+Sit on Sofa: 52
+Customer is Ready
+Cutting Hair
+Good Bye: 41
+Leave Barber Chair: 45
+Good Bye: 30
+Sit in Barber Chair: 46
+Welcome Customer: 77
+Enter Shop: 63
+Payment Processing: 45
+Welcome Customer: 78
+Enter Shop: 62
 Payment Started
 Payment Accepting
-Good Bye: 47
+One Cut Completed
+Welcome Customer: 79
 One Payment Processed
-Inside Payment Section
-Good Bye: 46
+Inside Payment Function
+Get up from Sofa: 54
+Enter Shop: 64
+Sit in Barber Chair: 54
+Sit on Sofa: 51
 Good Bye: 45
+Customer is Ready
+Cutting Hair
+Welcome Customer: 80
+Enter Shop: 65
+Leave Barber Chair: 50
+Welcome Customer: 81
+Payment Processing: 50
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Payment Started
+Leave Barber Chair: 46
+Payment Accepting
+Get up from Sofa: 47
+One Payment Processed
+Inside Payment Function
+Welcome Customer: 82
+Sit in Barber Chair: 47
+Payment Processing: 46
+Sit on Sofa: 53
+Payment Started
+Payment Accepting
+Welcome Customer: 83
+Good Bye: 50
+One Payment Processed
+Inside Payment Function
+Get up from Sofa: 42
+Good Bye: 46
+Sit in Barber Chair: 42
+Sit on Sofa: 55
+One Cut Completed
+Enter Shop: 66
+Welcome Customer: 84
+Enter Shop: 67
+Customer is Ready
+Cutting Hair
+Welcome Customer: 85
+Leave Barber Chair: 54
+Payment Processing: 54
+Welcome Customer: 86
+Payment Started
+Payment Accepting
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 52
+Leave Barber Chair: 47
+One Payment Processed
+Sit in Barber Chair: 52
+Payment Processing: 47
+Inside Payment Function
+Payment Started
+Payment Accepting
+Welcome Customer: 87
+One Payment Processed
+Inside Payment Function
+Sit on Sofa: 49
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Good Bye: 47
+Leave Barber Chair: 42
+Good Bye: 54
+Get up from Sofa: 51
+Enter Shop: 68
+Sit in Barber Chair: 51
+Sit on Sofa: 56
+Payment Processing: 42
+Welcome Customer: 88
+One Cut Completed
+Welcome Customer: 89
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 53
+Leave Barber Chair: 52
+Payment Started
+Sit in Barber Chair: 53
+Payment Processing: 52
+Payment Accepting
+Enter Shop: 69
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit on Sofa: 57
+One Payment Processed
+Inside Payment Function
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 55
+Leave Barber Chair: 51
+Sit in Barber Chair: 55
+Payment Processing: 51
+Good Bye: 52
+Sit on Sofa: 58
+Get up from Sofa: 58
+Payment Started
+Payment Accepting
+Sit in Barber Chair: 58
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Welcome Customer: 90
+Leave Barber Chair: 53
+Good Bye: 42
+Payment Processing: 53
+Sit on Sofa: 59
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Enter Shop: 70
+One Payment Processed
+Inside Payment Function
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 56
+Leave Barber Chair: 55
+Welcome Customer: 91
+Payment Processing: 55
+Sit in Barber Chair: 56
+Sit on Sofa: 60
+Good Bye: 51
+Payment Started
+Payment Accepting
+One Cut Completed
+One Payment Processed
+Customer is Ready
+Cutting Hair
+Enter Shop: 71
+Inside Payment Function
+Good Bye: 53
+Get up from Sofa: 57
+Good Bye: 55
+Sit in Barber Chair: 57
+Sit on Sofa: 61
+Welcome Customer: 92
+Leave Barber Chair: 58
+Payment Processing: 58
+Enter Shop: 73
+Enter Shop: 74
+Enter Shop: 72
+Welcome Customer: 93
+Payment Started
+Payment Accepting
+One Cut Completed
+One Payment Processed
+Inside Payment Function
+Welcome Customer: 94
+Good Bye: 58
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 49
+Leave Barber Chair: 56
+Payment Processing: 56
+Welcome Customer: 95
+Enter Shop: 75
+Welcome Customer: 96
+Sit in Barber Chair: 49
+Welcome Customer: 97
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Payment Started
+Payment Accepting
+Leave Barber Chair: 57
+Get up from Sofa: 59
+One Payment Processed
+Inside Payment Function
+Welcome Customer: 98
+Payment Processing: 57
+Sit on Sofa: 63
+Welcome Customer: 99
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Sit in Barber Chair: 59
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 60
+Leave Barber Chair: 49
+Payment Processing: 49
+Sit in Barber Chair: 60
+Sit on Sofa: 64
+Get up from Sofa: 64
+One Cut Completed
+Sit on Sofa: 62
+Good Bye: 57
+Sit in Barber Chair: 64
+Customer is Ready
+Cutting Hair
+Payment Started
+Payment Accepting
+Leave Barber Chair: 59
+Good Bye: 56
+Sit on Sofa: 65
+One Payment Processed
+Inside Payment Function
 Good Bye: 49
+One Cut Completed
+Enter Shop: 77
+Enter Shop: 76
+Payment Processing: 59
+Customer is Ready
+Cutting Hair
+Enter Shop: 78
+Leave Barber Chair: 60
+Get up from Sofa: 63
+Payment Processing: 60
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Payment Started
+Payment Accepting
+Leave Barber Chair: 64
+Sit in Barber Chair: 63
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit on Sofa: 66
+One Payment Processed
+Inside Payment Function
+Get up from Sofa: 62
+Sit in Barber Chair: 62
+Good Bye: 59
+Sit on Sofa: 67
+One Cut Completed
+Good Bye: 60
+Customer is Ready
+Cutting Hair
+Enter Shop: 79
+Leave Barber Chair: 63
+Payment Processing: 63
+Get up from Sofa: 61
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Enter Shop: 80
+Leave Barber Chair: 62
+Payment Processing: 64
+Payment Processing: 62
+Payment Started
+One Cut Completed
+Sit in Barber Chair: 61
+Sit on Sofa: 68
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 66
+Leave Barber Chair: 61
+Payment Accepting
+Payment Processing: 61
+Sit in Barber Chair: 66
+Sit on Sofa: 69
+Get up from Sofa: 69
+Get up from Sofa: 65
+One Cut Completed
+One Payment Processed
+Customer is Ready
+Cutting Hair
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit in Barber Chair: 69
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit in Barber Chair: 65
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit on Sofa: 70
+One Payment Processed
+Inside Payment Function
+Good Bye: 62
+Good Bye: 63
+Sit on Sofa: 71
+Good Bye: 61
+Leave Barber Chair: 66
+Good Bye: 64
+Enter Shop: 82
+Enter Shop: 83
+Enter Shop: 81
+Payment Processing: 66
+One Cut Completed
+Payment Started
+Payment Accepting
+Customer is Ready
+Cutting Hair
+Enter Shop: 84
+Get up from Sofa: 68
+One Payment Processed
+Sit in Barber Chair: 68
+Sit on Sofa: 73
+Inside Payment Function
+Leave Barber Chair: 69
+Good Bye: 66
+Payment Processing: 69
+Enter Shop: 85
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 67
+Payment Started
+Payment Accepting
+Leave Barber Chair: 65
+Sit in Barber Chair: 67
+One Payment Processed
+Inside Payment Function
+Sit on Sofa: 74
+Payment Processing: 65
+Good Bye: 69
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Get up from Sofa: 70
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Enter Shop: 86
+Leave Barber Chair: 68
+Sit in Barber Chair: 70
+Payment Processing: 68
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Good Bye: 65
+Leave Barber Chair: 67
+Get up from Sofa: 71
+Payment Started
+Payment Accepting
+Payment Processing: 67
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Cut Completed
+One Payment Processed
+Inside Payment Function
+Sit on Sofa: 75
+Sit on Sofa: 72
+Get up from Sofa: 73
+Good Bye: 67
+Sit in Barber Chair: 73
+Sit in Barber Chair: 71
+Sit on Sofa: 77
+Good Bye: 68
+Enter Shop: 87
+Customer is Ready
+Cutting Hair
+Enter Shop: 89
+Enter Shop: 88
+Leave Barber Chair: 70
+Payment Processing: 70
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Payment Started
+Payment Accepting
+Leave Barber Chair: 73
+One Payment Processed
+Inside Payment Function
+Get up from Sofa: 74
+Payment Processing: 73
+Sit in Barber Chair: 74
+Sit on Sofa: 76
+Good Bye: 70
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Get up from Sofa: 75
+Good Bye: 73
+Enter Shop: 90
+Sit in Barber Chair: 75
+Sit on Sofa: 78
+Enter Shop: 91
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Leave Barber Chair: 71
+Payment Processing: 71
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Payment Started
+Payment Accepting
+Get up from Sofa: 72
+Leave Barber Chair: 74
+One Payment Processed
+Inside Payment Function
+Sit in Barber Chair: 72
+Good Bye: 71
+Sit on Sofa: 79
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Enter Shop: 92
+Leave Barber Chair: 75
+Payment Processing: 74
+Payment Processing: 75
+Get up from Sofa: 77
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 76
+Leave Barber Chair: 72
+Payment Started
+Payment Processing: 72
+Sit in Barber Chair: 76
+Payment Accepting
+Sit in Barber Chair: 77
+Sit on Sofa: 82
+Get up from Sofa: 82
+One Cut Completed
+Customer is Ready
+Cutting Hair
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit in Barber Chair: 82
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit on Sofa: 80
+One Payment Processed
+Inside Payment Function
+Good Bye: 74
+Good Bye: 75
+Good Bye: 72
+Leave Barber Chair: 76
+Sit on Sofa: 83
+Enter Shop: 94
+Enter Shop: 95
+Enter Shop: 93
+Payment Processing: 76
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Payment Started
+Leave Barber Chair: 77
+Payment Accepting
+Get up from Sofa: 79
+One Payment Processed
+Inside Payment Function
+Payment Processing: 77
+Good Bye: 76
+Payment Started
+Payment Accepting
+Sit in Barber Chair: 79
+One Payment Processed
+Enter Shop: 96
+One Cut Completed
+Inside Payment Function
+Good Bye: 77
+Customer is Ready
+Cutting Hair
+Sit on Sofa: 81
+Leave Barber Chair: 82
+Get up from Sofa: 78
+Payment Processing: 82
+Enter Shop: 97
+Sit on Sofa: 97
+Get up from Sofa: 97
+Sit in Barber Chair: 78
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Sit on Sofa: 84
+Leave Barber Chair: 79
+Sit in Barber Chair: 97
+Payment Processing: 79
+Payment Started
+Payment Accepting
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 83
+Leave Barber Chair: 78
+One Payment Processed
+Payment Processing: 78
+Sit in Barber Chair: 83
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit on Sofa: 86
+One Payment Processed
+Inside Payment Function
+Get up from Sofa: 81
+Good Bye: 79
+Sit in Barber Chair: 81
+Sit on Sofa: 87
+Good Bye: 82
+Good Bye: 78
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Enter Shop: 99
+Leave Barber Chair: 97
+Enter Shop: 98
+Payment Processing: 97
+Payment Started
+Payment Accepting
+One Cut Completed
+One Payment Processed
+Inside Payment Function
+Customer is Ready
+Cutting Hair
+Good Bye: 97
+Leave Barber Chair: 83
+Get up from Sofa: 80
+Payment Processing: 83
+Sit in Barber Chair: 80
+Sit on Sofa: 89
+Get up from Sofa: 89
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Leave Barber Chair: 81
+Sit in Barber Chair: 89
+Payment Processing: 81
+Sit on Sofa: 88
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Leave Barber Chair: 80
+Get up from Sofa: 86
+Payment Processing: 80
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 87
+Leave Barber Chair: 89
+Payment Processing: 89
+Sit in Barber Chair: 87
+Sit on Sofa: 91
+Get up from Sofa: 91
+Sit in Barber Chair: 86
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Sit on Sofa: 90
+Sit in Barber Chair: 91
+Leave Barber Chair: 87
+Sit on Sofa: 92
+Payment Processing: 87
+Get up from Sofa: 92
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Payment Started
+Leave Barber Chair: 86
+Payment Accepting
+Payment Processing: 86
+Good Bye: 86
+Sit on Sofa: 94
+Sit in Barber Chair: 92
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Get up from Sofa: 84
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Good Bye: 81
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Sit on Sofa: 95
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Good Bye: 89
+Leave Barber Chair: 91
+Good Bye: 83
+Sit in Barber Chair: 84
+Good Bye: 87
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Good Bye: 80
+Leave Barber Chair: 92
+Get up from Sofa: 90
+Payment Processing: 91
+Sit in Barber Chair: 90
+Sit on Sofa: 93
+Payment Processing: 92
+Payment Started
+Payment Accepting
+Good Bye: 92
+Get up from Sofa: 88
+Sit in Barber Chair: 88
+One Payment Processed
+Sit on Sofa: 96
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Good Bye: 91
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Leave Barber Chair: 84
+Payment Processing: 84
+Payment Started
+Payment Accepting
+One Cut Completed
+Customer is Ready
+Cutting Hair
+One Payment Processed
+Leave Barber Chair: 90
+Inside Payment Function
+Get up from Sofa: 94
+Sit in Barber Chair: 94
+Payment Processing: 90
+Sit on Sofa: 85
+Good Bye: 84
+Get up from Sofa: 95
+Sit in Barber Chair: 95
+Payment Started
+Payment Accepting
+Sit on Sofa: 99
+One Payment Processed
+Inside Payment Function
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Leave Barber Chair: 88
+Good Bye: 90
+Payment Processing: 88
+One Cut Completed
+Payment Started
+Payment Accepting
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 93
+Sit in Barber Chair: 93
+Leave Barber Chair: 93
+Sit on Sofa: 98
+Payment Processing: 93
+One Payment Processed
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Leave Barber Chair: 95
+Inside Payment Function
+Payment Started
+Payment Accepting
+Good Bye: 88
+One Payment Processed
+Inside Payment Function
+Payment Processing: 95
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Good Bye: 93
+Get up from Sofa: 85
+Sit in Barber Chair: 85
+Payment Started
+Payment Accepting
+Leave Barber Chair: 94
+One Payment Processed
+Inside Payment Function
+Good Bye: 95
+Payment Processing: 94
+One Cut Completed
+Payment Started
+Payment Accepting
+Customer is Ready
+Cutting Hair
+Get up from Sofa: 96
+Leave Barber Chair: 85
+Sit in Barber Chair: 96
+Payment Processing: 85
+Get up from Sofa: 99
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Good Bye: 94
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Leave Barber Chair: 96
+Payment Processing: 96
+Get up from Sofa: 98
+One Cut Completed
+Sit in Barber Chair: 99
+Sit in Barber Chair: 98
+Customer is Ready
+Cutting Hair
+Leave Barber Chair: 98
+Payment Processing: 98
+Payment Started
+One Cut Completed
+Customer is Ready
+Cutting Hair
+Payment Accepting
+Leave Barber Chair: 99
+Payment Processing: 99
+Good Bye: 99
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+One Payment Processed
+Inside Payment Function
+Payment Started
+Payment Accepting
+Good Bye: 85
+One Payment Processed
+Inside Payment Function
+Good Bye: 98
+Good Bye: 96
+One Cut Completed
